@@ -1,2 +1,5 @@
 .regexwebvenv
 regexweb/regexweb/__pycache__
+regexweb/entries/__pycache__
+regexweb/entries/migrations
+db.sqlite3
